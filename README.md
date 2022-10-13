@@ -1,7 +1,7 @@
 ## Hello, I'm a Learner and Developer!!
 
 - 🌱 I’m currently learning everything such as Security, iOS Development, Swift(UIKit dan SwiftUI)
-- 👯 I am a self-taught player and need a professional mentor if any
+- 👯 I am a self-taught player and need a professional mentor if any 😬
 - ⚡ Fun fact: I like to learn new things and vacation
 
 ### Spotify Playing 🎧
