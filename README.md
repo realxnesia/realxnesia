@@ -1,6 +1,5 @@
 ## Hello, I'm a Learner and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything such as Security, iOS Development, Swift(UIKit dan SwiftUI)
 - 👯 I am a self-taught player and need a professional mentor if any
 - ⚡ Fun fact: I like to learn new things and vacation
