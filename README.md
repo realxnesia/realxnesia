@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm a Learner and Developer!!</h1>
+<h1 align="center">Hi 👋, I'm DhikaAr!!</h1>
 <h3 align="center">A passionate iOS developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realxnesia&label=Profile%20views&color=0e75b6&style=flat" alt="realxnesia" /> </p>
