@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhika Aditya Are</h1>
+<h1 align="center">Hi 👋, I'm I'm a Learner and Developer!!</h1>
 <h3 align="center">A passionate iOS developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realxnesia&label=Profile%20views&color=0e75b6&style=flat" alt="realxnesia" /> </p>
 
-- 🌱 I’m currently learning **iOS**
-
+- 🌱 I’m currently learning **Security, iOS Development, Swift(UIKit dan SwiftUI)**
+- 👯 I am a self-taught player and need a professional mentor if any 😬
+- ⚡ Fun fact: I like to learn new things and vacation
 - 💬 Ask me about **iOS and Security**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,22 +19,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realxnesia&show_icons=true&locale=en&layout=compact" alt="realxnesia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realxnesia&" alt="realxnesia" /></p>
-
-
-
-
-
-
-## Hello, I'm a Learner and Developer!!
-
-- 🌱 I’m currently learning everything such as Security, iOS Development, Swift(UIKit dan SwiftUI)
-- 👯 I am a self-taught player and need a professional mentor if any 😬
-- ⚡ Fun fact: I like to learn new things and vacation
-
-### Connect with me:
-
-[<img align="left" alt="https://aerial-astronaut-479.notion.site/Dhika-04157a80cbf647439b01d30f89a88c06" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/dhika-aditya-areyadi-putra-5ba5431b8/)" />][linkedin]
 
 <!---
 realxnesia/realxnesia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
