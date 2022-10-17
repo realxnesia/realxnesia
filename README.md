@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm DhikaAr!!</h1>
+<h1 align="center">Hi 👋, I'm DhikaAAP!!</h1>
 <h3 align="center">A passionate iOS developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realxnesia&label=Profile%20views&color=0e75b6&style=flat" alt="realxnesia" /> </p>
 
-- 🌱 I’m currently learning **Security, iOS Development, Swift(UIKit dan SwiftUI)**
+- 🌱 I’m currently learning **Security, iOS Development, Swift(UIKit and SwiftUI)**
 - 👯 I am a self-taught player and need a professional mentor if any 😬
 - ⚡ Fun fact: I like to learn new things and vacation
 - 💬 Ask me about **iOS and Security**
